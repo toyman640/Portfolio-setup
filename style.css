@@ -1,0 +1,164 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap");
+body {
+  background: #F4F5F7;
+  margin: 0;
+
+}
+
+.navbar {
+  display: flex;
+}
+.nav-item:first-child{
+  position: relative;
+  /* margin-right: auto; */
+  margin-left: -25px;
+  color: #6070FF;
+  font-weight: 700;
+  width: 76px;
+  height: 20px;
+  font-family: 'Poppins';
+  list-style: none;
+}
+
+.other-item {
+  list-style: none;
+  display: none;
+}
+
+.nav-ham { 
+  /* position: absolute; */
+  height: 15px;
+  margin-left: auto;
+  padding-top: 20px;
+  margin-right: 30px;
+}
+.banner {
+  /* width: 375px; */
+  position: relative;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+.rec-1 {
+  position: absolute;
+  height: 50px;
+  margin-left: -40px;
+}
+
+.elli-1 {
+  position: absolute;
+  height: 20px;
+  margin-top: 20px;
+  margin-left: -11px;
+}
+
+.rec-2 {
+  position: absolute;
+  height: 8px;
+  margin-left: 130px;
+  margin-top: 40px;
+  transform: rotate(60deg);
+}
+
+.elli-2 {
+  position: absolute;
+  margin-left: 130px;
+  height: 10px;
+  margin-top: 45px;
+}
+
+.rec-3 {
+  position: absolute;
+  height: 100px;
+  right: -20px;
+  overflow-x:hidden; 
+}
+
+.elli-3 {
+  position: absolute;
+  height: 100px;
+  right: -50px;
+  margin-top: 50px;
+  transform: rotate(-15deg);
+}
+
+.intro {
+  margin-top: 100px;
+  
+}
+.name {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  color: #172B4D;
+  margin-left: 80px;
+}
+
+.information {
+  width: 327px;
+  height: 146px;
+  font-family: 'Poppins';
+  color: #172B4D;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  margin-left: 80px;
+}
+
+.socials {
+  margin-left: 80px;
+}
+
+.socials-header {
+  font-family: 'Poppins';
+  color: #172B4D;
+  font-weight: 500px;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.twitter {
+  margin-right: 15px;
+}
+
+.dotted {
+  position: absolute;
+}
+
+.letter {
+  margin-right: 15px;
+}
+
+.medium {
+  margin-right: 15px;
+}
+
+.github {
+  margin-right: 15px;
+}
+
+.social-shapes {
+  position: absolute;
+  bottom: 20px;
+  right: -0px;
+  margin-right: 50px;
+}
+
+.elli-6 {
+  position: absolute;
+  margin-top: 13px;
+}
+
+.elli-7 {
+  margin-bottom: 25px;
+}
+
+
+
+
+
+
+
