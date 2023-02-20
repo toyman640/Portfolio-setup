@@ -34,7 +34,6 @@ body {
 }
 
 .banner {
-  /* width: 375px; */
   position: relative;
   overflow-x: hidden;
   overflow-y: hidden;
@@ -70,17 +69,17 @@ body {
 
 .rec-3 {
   position: absolute;
-  height: 100px;
+  height: 70px;
   right: -20px;
   overflow-x: hidden;
 }
 
 .elli-3 {
   position: absolute;
-  height: 100px;
+  height: 80px;
   right: -50px;
-  margin-top: 50px;
-  transform: rotate(-15deg);
+  margin-top: 35px;
+  transform: rotate(15deg);
 }
 
 .intro {
@@ -94,7 +93,7 @@ body {
   font-size: 40px;
   line-height: 52px;
   color: #172b4d;
-  margin-left: 80px;
+  margin: 0 30px;
 }
 
 .information {
@@ -106,7 +105,7 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  margin-left: 80px;
+  margin: 0 30px;
 }
 
 .socials {
@@ -121,24 +120,20 @@ body {
   line-height: 24px;
 }
 
-.twitter {
-  margin-right: 15px;
+.icons ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  width: 200px;
+  line-height: 1.5;
 }
 
-.dotted {
-  position: absolute;
+.icons ul li:first-child {
+  margin-left: -40px;
 }
 
-.letter {
-  margin-right: 15px;
-}
-
-.medium {
-  margin-right: 15px;
-}
-
-.github {
-  margin-right: 15px;
+.linked {
+  height: 25px;
 }
 
 .social-shapes {
