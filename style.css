@@ -141,6 +141,14 @@ body {
   line-height: 1.5;
 }
 
+.sixth-item ul li {
+  background: #f7f7f9;
+  width: 303px;
+  height: 66.72px;
+  border-radius: 8px;
+  margin-bottom: 5px;
+}
+
 .icons ul li:first-child {
   margin-left: -40px;
 }
@@ -165,18 +173,18 @@ body {
   margin-bottom: 25px;
 }
 
-.second-section{
+.second-section {
   width: 327px;
   height: 552px;
   margin-left: 25px;
-  
 }
+
 .works {
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 16px;
-  background: #ffffff;
+  background: #fff;
   border: 1px solid #dfe1e6;
   margin-top: 50px;
   border-radius: 16px;
@@ -189,10 +197,9 @@ body {
   font-size: 32px;
   line-height: 44px;
   margin-top: -5px;
-
 }
 
-.nav-item3{
+.nav-item3 {
   display: flex;
   margin-top: -25px;
   justify-content: space-around;
@@ -229,14 +236,13 @@ body {
   line-height: 24px;
 }
 
-.nav-item-5 a{
+.nav-item-5 a {
   font-family: 'Poppins', sans-serif;
   font-weight: 500;
   size: 12px;
   line-height: 16px;
   color: #6070ff;
   text-decoration: none;
-
 }
 
 .nav-item-5 button {
@@ -260,7 +266,7 @@ body {
 .third-section {
   display: flex;
   justify-content: center;
-  background: #ffffff;
+  background: #fff;
   margin-top: 100px;
   border-top-right-radius: 50px;
 }
@@ -303,17 +309,15 @@ body {
   align-items: start;
   width: 200px;
   margin-left: -50px;
-
 }
 
-.fifth-item  a{
+.fifth-item a {
   font-family: 'Poppins', sans-serif;
   font-weight: 500;
   line-height: 24px;
   font-size: 17px;
   text-decoration: none;
   color: #396df2;
-
 }
 
 .fifth-item button {
@@ -323,7 +327,7 @@ body {
   border: 1px solid #6070ff;
 }
 
-.sixth-itm{
+.sixth-item {
   margin-top: 30px;
   width: 303px;
 }
@@ -333,14 +337,6 @@ body {
   flex-direction: column;
   list-style: none;
   margin-left: -50px;
-}
-
-.sixth-itm ul li {
-  background: #f7f7f9;
-  width: 303px;
-  height: 66.72px;
-  border-radius: 8px;
-  margin-bottom: 5px;
 }
 
 .stacks {
@@ -362,7 +358,7 @@ body {
   font-size: 20px;
   line-height: 24px;
   margin-top: 20px;
-  color: #000000;
+  color: #000;
 }
 
 .angle-right {
@@ -387,5 +383,5 @@ body {
   width: 327px;
   height: 552px;
   margin-left: 25px;
-  margin-top: 100px; 
+  margin-top: 100px;
 }
