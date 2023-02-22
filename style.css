@@ -245,11 +245,20 @@ body {
   text-decoration: none;
 }
 
-.nav-item-5 button {
+.nav-item-5 ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  
+  width: 200px;
+  margin-left: -35px;
+}
+
+.nav-item-5 li {
   background: #ebebff;
-  border-radius: 8px;
-  border: 0;
   padding: 4px 12px;
+  border-radius: 8px;
+  margin-right: 5px;
 }
 
 .nav-items-2 {
