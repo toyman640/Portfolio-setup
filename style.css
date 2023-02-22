@@ -177,11 +177,6 @@ body {
   display: grid;
   column-gap: 50px;
   padding: 0 20px 0 20px;
-  /* display: grid;
-  column-gap: 100px;
-  width: 327px;
-  height: 552px;
-  margin-left: 25px; */
 }
 
 .works {
@@ -343,61 +338,60 @@ body {
 
 .first-item {
   margin-top: 50px;
-  /* margin-bottom: 50px; */
 }
+
 .language {
   list-style: none;
   width: 300px;
   margin-left: -35px;
-  /* border: 2px solid red; */
 }
 
 .nested1 {
- background: url('images/Ellipse-js.svg') no-repeat left;
- height: 67px;
- padding-top: 10px;
- padding-left: 60px;
- width: 250px;
- list-style: none;
- margin-left: -35px;
- margin-bottom: 8px;
- background-color: #f7f7f9;
- border-radius: 8px;
- margin-top: 50px;
- line-height: 50px;
-
+  background: url('images/Ellipse-js.svg') no-repeat left;
+  height: 67px;
+  padding-top: 10px;
+  padding-left: 60px;
+  width: 250px;
+  list-style: none;
+  margin-left: -35px;
+  margin-bottom: 8px;
+  background-color: #f7f7f9;
+  border-radius: 8px;
+  margin-top: 50px;
+  line-height: 50px;
 }
 
 .nested2 {
- background: url('images/Ellipse-html.svg') no-repeat left;
- height: 67px;
- padding-top: 10px;
- padding-left: 60px;
- width: 250px;
- list-style: none;
- margin-left: -35px;
- margin-bottom: 8px;
- background-color: #f7f7f9;
- border-radius: 8px;
- line-height: 50px;
+  background: url('images/Ellipse-html.svg') no-repeat left;
+  height: 67px;
+  padding-top: 10px;
+  padding-left: 60px;
+  width: 250px;
+  list-style: none;
+  margin-left: -35px;
+  margin-bottom: 8px;
+  background-color: #f7f7f9;
+  border-radius: 8px;
+  line-height: 50px;
 }
 
 .nested3 {
-  background: url('images/Ellipse-css.svg') no-repeat left ;
+  background: url('images/Ellipse-css.svg') no-repeat left;
   height: 67px;
- padding-top: 10px;
- padding-left: 60px;
- width: 250px;
- list-style: none;
- margin-left: -35px;
- background-color: #f7f7f9;
- border-radius: 8px;
- line-height: 50px;
+  padding-top: 10px;
+  padding-left: 60px;
+  width: 250px;
+  list-style: none;
+  margin-left: -35px;
+  background-color: #f7f7f9;
+  border-radius: 8px;
+  line-height: 50px;
 }
 
 .framework {
   margin-top: 50px;
 }
+
 .stacks {
   display: flex;
   flex-direction: column;
