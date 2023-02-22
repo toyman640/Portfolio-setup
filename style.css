@@ -133,6 +133,13 @@ body {
   margin-left: -12px;
 }
 
+.nav-item-5 li {
+  background: #ebebff;
+  padding: 4px 12px;
+  border-radius: 8px;
+  margin-right: 5px;
+}
+
 .icons ul {
   display: flex;
   list-style: none;
@@ -249,16 +256,8 @@ body {
   display: flex;
   list-style: none;
   justify-content: space-around;
-  
   width: 200px;
   margin-left: -35px;
-}
-
-.nav-item-5 li {
-  background: #ebebff;
-  padding: 4px 12px;
-  border-radius: 8px;
-  margin-right: 5px;
 }
 
 .nav-items-2 {
